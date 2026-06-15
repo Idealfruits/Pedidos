@@ -1,0 +1,1 @@
+ALTER TABLE `order_lines` MODIFY COLUMN `quantity` varchar(255) NOT NULL;

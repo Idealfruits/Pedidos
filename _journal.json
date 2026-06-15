@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781519179962,
+      "tag": "0000_hesitant_kang",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781519300697,
+      "tag": "0001_odd_ultimatum",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781521942767,
+      "tag": "0002_optimal_wild_child",
+      "breakpoints": true
+    }
+  ]
+}
